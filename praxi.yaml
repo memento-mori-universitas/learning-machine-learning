@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-machine-learning
+
+about:
+  title: Learning Machine Learning
+  description: Machine learning is a method of data analysis that automates analytical model building
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
